@@ -1,0 +1,14 @@
+.product-detail {
+  max-width: 800px;
+  margin: 40px auto;
+  padding: 20px;
+  background: #f8f8f8;
+  border-radius: 10px;
+  text-align: center;
+}
+
+.product-image {
+  width: 100%;
+  max-width: 300px;
+  margin-bottom: 20px;
+}

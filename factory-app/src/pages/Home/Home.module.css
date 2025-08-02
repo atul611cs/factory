@@ -1,0 +1,32 @@
+.home {
+  padding: 0;
+  margin: 0;
+}
+
+.hero {
+  background: url("/images/hero.jpg") center/cover no-repeat;
+  height: 80vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: white;
+  text-align: center;
+}
+
+.heroContent h1 {
+  font-size: 3rem;
+}
+
+.heroContent p {
+  font-size: 1.2rem;
+  margin: 1rem 0;
+}
+
+.heroContent button {
+  background-color: #d04e25;
+  color: white;
+  padding: 0.8rem 1.5rem;
+  border: none;
+  font-size: 1rem;
+  cursor: pointer;
+}
