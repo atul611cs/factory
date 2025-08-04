@@ -1,0 +1,23 @@
+.container {
+  padding: 2rem;
+  text-align: center;
+}
+
+.pdfViewer {
+  margin-top: 2rem;
+}
+
+.downloadBtn {
+  display: inline-block;
+  margin-top: 1rem;
+  padding: 10px 20px;
+  background-color: #0077cc;
+  color: white;
+  text-decoration: none;
+  border-radius: 5px;
+  transition: background-color 0.3s;
+}
+
+.downloadBtn:hover {
+  background-color: #005fa3;
+}
