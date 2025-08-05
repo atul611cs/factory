@@ -1,0 +1,36 @@
+.about {
+  padding: 2rem;
+  max-width: 1000px;
+  margin: 0 auto;
+}
+
+.intro,
+.mission,
+.vision,
+.values,
+.cta {
+  margin-bottom: 2rem;
+}
+
+h1, h2 {
+  color: #333;
+}
+
+p, ul {
+  color: #555;
+  line-height: 1.6;
+}
+
+ul {
+  list-style: disc;
+  padding-left: 1.5rem;
+}
+
+.ctaBtn {
+  display: inline-block;
+  padding: 0.75rem 1.5rem;
+  background-color: #0077cc;
+  color: #fff;
+  text-decoration: none;
+  border-radius: 5px;
+}
